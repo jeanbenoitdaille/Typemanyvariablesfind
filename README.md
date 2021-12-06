@@ -1,2 +1,2 @@
 # Typemanyvariablesfind
-Trouver la valeur de plusieurs variables 
+Trouver le type de plusieurs variables
